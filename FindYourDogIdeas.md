@@ -1,4 +1,4 @@
-* Two diffrent aps for dog and owner.
+* Two diffrent app for dog and owner.
 * Whistle: is a collar that you put on your dog and if your dog runs away you get a email and it brings you to a map with a picture of your do wherever it is
 * Train your dog to respond to serten sounds that you make by the app on your phone
   * for example if your dog gets lost you push a button that says "My dogs gone,I need help"
@@ -10,7 +10,10 @@
 * IF your dog is lost there will be a sound that means its lost and not at it right home.
   * For example if your dog runs away then maybe we could make it so your phone vibrates and that means that your owner will knoe that there dog has ran away.
 * You phone will make a sound to tell you that your dog is missing and not at home when it  makes a sound  you klick a butten that tells you the information .
-* if your dog gets worried or gets wild the app tells the nearest person that that dog has gone missing if the perso does not do any thing it will tell some one elas.
+* if your dog gets worried or gets wild the app tells the nearest person that that dog has gone missing if the perso does not do any thing it will tell some one else.
+* if your scared that your dog has ran away go to "found your dog.com"! get a collar and put it on your dog for next time. and you can get your app for next time.
+* The app shows a vidio of the dog walking  and what it is doing at were ever it is .
+* Ones you are neer the dog the app tells the dog that you are neer or coming to get it.
 
 
  
