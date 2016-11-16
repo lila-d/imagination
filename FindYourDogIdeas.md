@@ -1,3 +1,4 @@
+
 * Two diffrent app for dog and owner.
 * Whistle: is a collar that you put on your dog and if your dog runs away you get a email and it brings you to a map with a picture of your do wherever it is
 * Train your dog to respond to serten sounds that you make by the app on your phone
@@ -15,5 +16,5 @@
 * The app shows a vidio of the dog walking  and what it is doing at were ever it is .
 * Ones you are neer the dog the app tells the dog that you are neer or coming to get it.
 
-
+* the app/collar can work on any animals, well not every animal, but most. for example:it would work on dogs,cats,and fainting goats,and others!    if you have pets at home you can order the siz of your animals neck and put it on, if your animal runs away you'll know where it is
  
